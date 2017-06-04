@@ -7,8 +7,8 @@ package com.qf.test;
 public class TestGit {
 	public void test(){
 		System.out.println("Im  test  now");
-	}
-	public void test2(){
+		System.out.println("Im  test  now");
+		System.out.println("Im  test  now");
 		System.out.println("Im  test  now");
 	}
 	
